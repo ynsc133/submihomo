@@ -137,6 +137,7 @@ npm run deploy
 欢迎通过以下方式参与：
 - 提交 [Issue](https://github.com/Kwisma/cf-worker-mihomo/issues)
 - 发起 [Pull Request](https://github.com/Kwisma/cf-worker-mihomo/pulls)
+- 来自 https://github.com/Kwisma/cf-worker-mihomo
 
 ## 📜 开源协议
 [MIT License](LICENSE) © 2025 Kwisma
